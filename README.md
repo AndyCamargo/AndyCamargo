@@ -21,30 +21,44 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-[![C++](https://skillicons.dev/icons?i=cpp)]&nbsp;
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)&nbsp;
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)&nbsp;
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)&nbsp;
-![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)&nbsp;
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)&nbsp;
+
+![Arduino](https://skillicons.dev/icons?i=arduino)&nbsp;
+![Aws](https://skillicons.dev/icons?i=aws)&nbsp;
+![Azure](https://skillicons.dev/icons?i=azure)&nbsp;
+![C++](https://skillicons.dev/icons?i=cpp)&nbsp;
+![C#](https://skillicons.dev/icons?i=cs)&nbsp;
+![Discord](https://skillicons.dev/icons?i=discord)&nbsp;
+![docker](https://skillicons.dev/icons?i=docker)&nbsp;
+![dotnet](https://skillicons.dev/icons?i=dotnet)&nbsp;\
+![gcp](https://skillicons.dev/icons?i=gcp)&nbsp;
+![git](https://skillicons.dev/icons?i=git)&nbsp;
+![github](https://skillicons.dev/icons?i=github)&nbsp;
+![html](https://skillicons.dev/icons?i=html)&nbsp;
+![js](https://skillicons.dev/icons?i=js)&nbsp;
+![kubernetes](https://skillicons.dev/icons?i=kubernetes)&nbsp;
+![laravel](https://skillicons.dev/icons?i=laravel)&nbsp;
+![linux](https://skillicons.dev/icons?i=linux)&nbsp;\
+![notion](https://skillicons.dev/icons?i=notion)&nbsp;
+![openshift](https://skillicons.dev/icons?i=openshift)&nbsp;
+![php](https://skillicons.dev/icons?i=php)&nbsp;
+![postman](https://skillicons.dev/icons?i=postman)&nbsp;
+![processing](https://skillicons.dev/icons?i=processing)&nbsp;
+![redhat](https://skillicons.dev/icons?i=redhat)&nbsp;
+![sublime](https://skillicons.dev/icons?i=sublime)&nbsp;
+![ubuntu](https://skillicons.dev/icons?i=ubuntu)&nbsp;\
+![visualstudio](https://skillicons.dev/icons?i=visualstudio)&nbsp;
+![windows](https://skillicons.dev/icons?i=windows)&nbsp;
+![wordpress](https://skillicons.dev/icons?i=wordpress)&nbsp;
+
 
 ### 🗃 &nbsp;Databases
 
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)&nbsp;
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
-![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)&nbsp;
+![dynamodb](https://skillicons.dev/icons?i=dynamodb)&nbsp;
+![mongodb](https://skillicons.dev/icons?i=mongodb)&nbsp;
+![mysql](https://skillicons.dev/icons?i=mysql)&nbsp;
+![postgres](https://skillicons.dev/icons?i=postgres)&nbsp;
+![sqlite](https://skillicons.dev/icons?i=sqlite)&nbsp;
+
 
 
 ### 🧰 &nbsp;Version Controll & Tools 
@@ -78,5 +92,7 @@
 
 
 <div align="center">
+  
+ ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=AndyCamargo.repoName)
  
 </div>
