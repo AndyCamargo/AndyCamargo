@@ -41,8 +41,8 @@
 ![notion](https://skillicons.dev/icons?i=notion)&nbsp;
 ![openshift](https://skillicons.dev/icons?i=openshift)&nbsp;
 ![php](https://skillicons.dev/icons?i=php)&nbsp;
-![postman](https://skillicons.dev/icons?i=postman)&nbsp;
-![processing](https://skillicons.dev/icons?i=processing)&nbsp;\
+![postman](https://skillicons.dev/icons?i=postman)&nbsp;\
+![processing](https://skillicons.dev/icons?i=processing)&nbsp;
 ![redhat](https://skillicons.dev/icons?i=redhat)&nbsp;
 ![sublime](https://skillicons.dev/icons?i=sublime)&nbsp;
 ![ubuntu](https://skillicons.dev/icons?i=ubuntu)&nbsp;\
