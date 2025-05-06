@@ -6,14 +6,14 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-👨‍💻 I'm currently looking for work as a backend developer.
-💡 I enjoy exploring new technologies and developing software solutions and quick hacks.
-🎓 I'm a systems and development engineer from the University of Cundinamarca in Colombia.
-🌱 I'm working on learning more about Web3 and Microservices-Based Architecture.
-✍️ In my free time, I'm working on developing new cloud technologies to stay ahead of the curve.
-💬 Feel free to contact me for pro bono consulting and volunteering, or just to have an interesting conversation.
-✉️ You can email me at andycamar001@gmail.com! I'll try to respond as soon as possible.
-📄 Please check out my  [Résumé](https://drive.google.com/drive/folders/1VNPplr4W83ruWeBLjx4AekbI3nQDdGwA) to learn more about me. I'm open to comments and suggestions!
+👨‍💻 &nbsp;I'm currently looking for work as a backend developer.\
+💡 &nbsp;I enjoy exploring new technologies and developing software solutions and quick hacks.\
+🎓 &nbsp;I'm a systems and development engineer from the University of Cundinamarca in Colombia.\
+🌱 &nbsp;I'm working on learning more about Web3 and Microservices-Based Architecture.\
+✍️ &nbsp;In my free time, I'm working on developing new cloud technologies to stay ahead of the curve.\
+💬 &nbsp;Feel free to contact me for pro bono consulting and volunteering, or just to have an interesting conversation.\
+✉️ &nbsp;You can email me at andycamar001@gmail.com! I'll try to respond as soon as possible.\
+📄 &nbsp;Please check out my  [Résumé](https://drive.google.com/drive/folders/1VNPplr4W83ruWeBLjx4AekbI3nQDdGwA) to learn more about me. I'm open to comments and suggestions!
 
 
 
