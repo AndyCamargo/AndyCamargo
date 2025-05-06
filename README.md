@@ -41,7 +41,7 @@
 ![wordpress](https://skillicons.dev/icons?i=wordpress)&nbsp;
 
 
-### 🧰 &nbsp;Platforms
+### ☁️ &nbsp;Platforms
 ![Aws](https://skillicons.dev/icons?i=aws)&nbsp;
 ![Azure](https://skillicons.dev/icons?i=azure)&nbsp;
 ![docker](https://skillicons.dev/icons?i=docker)&nbsp;
@@ -64,7 +64,7 @@
 
 
 
-###  &nbsp;Version Controll & Tools 
+### 🧰 &nbsp;Version Controll & Tools 
 
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)&nbsp;
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)&nbsp;
