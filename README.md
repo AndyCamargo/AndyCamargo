@@ -67,7 +67,7 @@
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)&nbsp;
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
 ![Service Now](https://img.shields.io/badge/Service%20Now-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
-
+![Microsoft Teams](https://img.shields.io/badge/Microsoft%20Teams-512BD4.svg?style=for-the-badge&logo=Microsoft-teams&logoColor=white)&nbsp;
 
 
 ### ⚙️ &nbsp;GitHub Analytics
