@@ -6,14 +6,15 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-👨‍💻 &nbsp;I am Currently Working at Quinbay Technologies in Banglore as Backend Developer.\
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science and Information Technology at New Horizon College of Engineering .\
-🌱 &nbsp;I'm on track for learning more about Web3, Microservice Based Architecture, Machine Learning.\
-✍️ &nbsp;In my free time, I pursue Logo Designing and Blog Writing as hobbies/side hustles.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at andycamar001@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://onedrive.live.com/?authkey=%21AKntgUe4LOwU4xA&id=2C11D5C642133C04%213605&cid=2C11D5C642133C04&parId=root&parQt=sharedby&o=OneUp) for more details about me. I'm open to feedback and suggestions!
+👨‍💻 I'm currently looking for work as a backend developer.
+💡 I enjoy exploring new technologies and developing software solutions and quick hacks.
+🎓 I'm a systems and development engineer from the University of Cundinamarca in Colombia.
+🌱 I'm working on learning more about Web3 and Microservices-Based Architecture.
+✍️ In my free time, I'm working on developing new cloud technologies to stay ahead of the curve.
+💬 Feel free to contact me for pro bono consulting and volunteering, or just to have an interesting conversation.
+✉️ You can email me at andycamar001@gmail.com! I'll try to respond as soon as possible.
+📄 Please check out my  [Résumé](https://drive.google.com/drive/folders/1VNPplr4W83ruWeBLjx4AekbI3nQDdGwA) to learn more about me. I'm open to comments and suggestions!
+
 
 
 <img alt="Night Coding" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" align="right"/>
