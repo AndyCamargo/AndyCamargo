@@ -25,7 +25,7 @@
 ![Arduino](https://skillicons.dev/icons?i=arduino)&nbsp;
 ![Aws](https://skillicons.dev/icons?i=aws)&nbsp;
 ![Azure](https://skillicons.dev/icons?i=azure)&nbsp;
-![C++](https://skillicons.dev/icons?i=cpp)&nbsp;
+![C++](https://skillicons.dev/icons?i=cpp)&nbsp;\
 ![C#](https://skillicons.dev/icons?i=cs)&nbsp;
 ![Discord](https://skillicons.dev/icons?i=discord)&nbsp;
 ![docker](https://skillicons.dev/icons?i=docker)&nbsp;
@@ -33,7 +33,7 @@
 ![gcp](https://skillicons.dev/icons?i=gcp)&nbsp;
 ![git](https://skillicons.dev/icons?i=git)&nbsp;
 ![github](https://skillicons.dev/icons?i=github)&nbsp;
-![html](https://skillicons.dev/icons?i=html)&nbsp;
+![html](https://skillicons.dev/icons?i=html)&nbsp;\
 ![js](https://skillicons.dev/icons?i=js)&nbsp;
 ![kubernetes](https://skillicons.dev/icons?i=kubernetes)&nbsp;
 ![laravel](https://skillicons.dev/icons?i=laravel)&nbsp;
@@ -42,7 +42,7 @@
 ![openshift](https://skillicons.dev/icons?i=openshift)&nbsp;
 ![php](https://skillicons.dev/icons?i=php)&nbsp;
 ![postman](https://skillicons.dev/icons?i=postman)&nbsp;
-![processing](https://skillicons.dev/icons?i=processing)&nbsp;
+![processing](https://skillicons.dev/icons?i=processing)&nbsp;\
 ![redhat](https://skillicons.dev/icons?i=redhat)&nbsp;
 ![sublime](https://skillicons.dev/icons?i=sublime)&nbsp;
 ![ubuntu](https://skillicons.dev/icons?i=ubuntu)&nbsp;\
