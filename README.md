@@ -41,6 +41,8 @@
 ![wordpress](https://skillicons.dev/icons?i=wordpress)&nbsp;
 ![java](https://skillicons.dev/icons?i=java)&nbsp;
 ![matlab](https://skillicons.dev/icons?i=matlab)&nbsp;
+![androidstudio](https://skillicons.dev/icons?i=androidstudio)&nbsp;
+
 
 ### ☁️ &nbsp;Platforms
 ![Aws](https://skillicons.dev/icons?i=aws)&nbsp;
