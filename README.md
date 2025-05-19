@@ -39,7 +39,7 @@
 ![sublime](https://skillicons.dev/icons?i=sublime)&nbsp;
 ![visualstudio](https://skillicons.dev/icons?i=visualstudio)&nbsp;\
 ![wordpress](https://skillicons.dev/icons?i=wordpress)&nbsp;
-
+![java](https://skillicons.dev/icons?i=java)&nbsp;
 
 ### ☁️ &nbsp;Platforms
 ![Aws](https://skillicons.dev/icons?i=aws)&nbsp;
