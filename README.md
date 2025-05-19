@@ -40,6 +40,7 @@
 ![visualstudio](https://skillicons.dev/icons?i=visualstudio)&nbsp;\
 ![wordpress](https://skillicons.dev/icons?i=wordpress)&nbsp;
 ![java](https://skillicons.dev/icons?i=java)&nbsp;
+![matlab](https://skillicons.dev/icons?i=matlab)&nbsp;
 
 ### ☁️ &nbsp;Platforms
 ![Aws](https://skillicons.dev/icons?i=aws)&nbsp;
