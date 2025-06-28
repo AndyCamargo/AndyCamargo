@@ -1,6 +1,6 @@
 
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hello I m Andy Cmargo </h2>
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hello I m Andy Camargo </h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya Kanoi -->
 
