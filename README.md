@@ -43,8 +43,9 @@
 ![matlab](https://skillicons.dev/icons?i=matlab)&nbsp;
 ![androidstudio](https://skillicons.dev/icons?i=androidstudio)&nbsp;\
 ![vscode](https://skillicons.dev/icons?i=vscode)&nbsp;
-<!-- ![netbeans](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netbeans/netbeans-original.svg)&nbsp;
-![swagger](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg)&nbsp; -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" width="48" height="48" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" width="48" height="48" />&nbsp;
+
        
 ### ☁️ &nbsp;Platforms
 ![Aws](https://skillicons.dev/icons?i=aws)&nbsp;
